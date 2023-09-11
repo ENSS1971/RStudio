@@ -1,0 +1,7 @@
+"","    name","   zipCode","neighborhood","councilDistrict","policeDistrict"," Location.1"
+"","Length:1327       ","Min.   :-21226  ","Length:1327       ","Min.   : 1.000  ","Length:1327       ","Length:1327       "
+"","Class :character  ","1st Qu.: 21202  ","Class :character  ","1st Qu.: 2.000  ","Class :character  ","Class :character  "
+"","Mode  :character  ","Median : 21218  ","Mode  :character  ","Median : 9.000  ","Mode  :character  ","Mode  :character  "
+"",NA,"Mean   : 21185  ",NA,"Mean   : 7.191  ",NA,NA
+"",NA,"3rd Qu.: 21226  ",NA,"3rd Qu.:11.000  ",NA,NA
+"",NA,"Max.   : 21287  ",NA,"Max.   :14.000  ",NA,NA
